@@ -136,6 +136,4 @@ function App() {
   )
 }
 
-/** kh ăn class tailwind kìa  sao the nhi*/
-
 export default App
